@@ -10,9 +10,6 @@ const Landing = () => {
       <p>
         Enter the email address you use for your account, and we’ll send you a link to reset your password.
       </p>
-      <input type="email" placeholder="Email Address" />
-
-      <button>Send Reset Link</button>
 
       <h4>Check Your Email</h4>
       <p>
@@ -27,11 +24,7 @@ const Landing = () => {
       <h4>Create a New Password</h4>
       <p>
         Enter your new password and confirm it.
-      </p>
-      <input type="password" placeholder="New Password" />
-      <input type="password" placeholder="Confirm New Password" />
-
-      <button>Reset Password</button>
+        </p>
 
       <h4>Login with Your New Password</h4>
       <p>
